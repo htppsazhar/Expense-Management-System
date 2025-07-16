@@ -59,7 +59,6 @@ uvicorn backend.server:app --reload
 By default, the FastAPI server runs at:
 🔗 http://127.0.0.1:8000
 📘 Swagger UI: http://127.0.0.1:8000/docs
-
 4. Run the Frontend (Streamlit)
 bash
 Copy
@@ -67,8 +66,9 @@ Edit
 streamlit run frontend/app.py
 The Streamlit app will launch in your browser at:
 🌐 http://localhost:8501
-
+---
 ⚙️ Technologies Used
+
 🔸 Frontend: Streamlit
 
 🔸 Backend: FastAPI
