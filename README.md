@@ -70,17 +70,11 @@ The Streamlit app will launch in your browser at: <br>
 ### ⚙️ Technologies Used
 
 🔸 Frontend: Streamlit
-
 🔸 Backend: FastAPI
-
 🔸 Database: MySQL
-
 🔸 Data Handling: Pandas, Pydantic
-
 🔸 HTTP: Requests
-
 🔸 Testing: Pytest
-
 🔸 Server: Uvicorn
 
 ---
