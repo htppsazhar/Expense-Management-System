@@ -83,5 +83,38 @@ The Streamlit app will launch in your browser at: <br>
 
 🔸 Server: Uvicorn
 
+---
+✅ Requirements
+The project depends on the following Python packages:
 
+🔸 streamlit==1.35.0
+🔸 fastapi==0.112.2
+🔸 pydantic==1.10.9
+🔸 uvicorn==0.30.6
+🔸 mysql-connector-python==8.0.33
+🔸 pandas==2.0.2
+🔸 requests==2.31.0
+🔸 pytest==8.3.2
 
+These are automatically installed via requirements.txt.
+---
+
+📸 Screenshots
+
+Add / Update Expenses:
+<img width="881" height="766" alt="image" src="https://github.com/user-attachments/assets/9ee663db-7bc1-4c77-93e3-543c59728717" />
+
+---
+
+Expense Analytics:
+<img width="832" height="965" alt="image" src="https://github.com/user-attachments/assets/3071d8b2-06e3-41aa-8842-1928b02a1d73" />
+
+---
+
+🤝 Acknowledgements <br>
+This project was guided by online learning and hands-on practice. Thanks to all contributors, open-source libraries, and the tech community that made it possible.
+
+📬 Contact
+Have questions or suggestions?
+📧 [azharuk23@gmail.com]
+🌐 https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/
