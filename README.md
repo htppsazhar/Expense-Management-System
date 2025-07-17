@@ -15,8 +15,7 @@ The system also includes visual analytics for better financial insights and a ro
 - 🚀 FastAPI-powered backend with Pydantic validation
 - 🧪 Pytest test suite for backend validation
 
----
-### 📁 Project Structure
+## 📁 Project Structure
 
 ```plaintext
 expense-management-system/
@@ -37,6 +36,7 @@ expense-management-system/
 ├── requirements.txt            # Required Python dependencies
 └── README.md                   # Project overview and usage
 
+```
 ---
 
 🚀 Getting Started
