@@ -16,7 +16,7 @@ The system also includes visual analytics for better financial insights and a ro
 - 🧪 Pytest test suite for backend validation
 
 ---
-<pre lang="markdown"> ### 📁 Project Structure ```plaintext expense-management-system/ ├── frontend/ # Streamlit frontend app │ ├── app.py # Main entry point │ ├── add_update_ui.py # UI for adding/updating expenses │ └── analytics_ui.py # UI for analytics view │ ├── backend/ # FastAPI backend app │ ├── server.py # Main FastAPI app │ ├── db_helper.py # Database logic │ └── logging_setup.py # Logging configuration │ ├── tests/ # Pytest test cases │ ├── test_backend.py │ └── test_frontend.py │ ├── requirements.txt # Required Python dependencies └── README.md # Project overview and usage ``` </pre>
+<pre lang="markdown"> ### 📁 Project Structure ```plaintext expense-management-system/ ├── frontend/ # Streamlit frontend app │ ├── app.py # Main entry point │ ├── add_update_ui.py # UI for adding/updating expenses │ └── analytics_ui.py # UI for analytics view │ ├── backend/ # FastAPI backend app │ ├── server.py # Main FastAPI app │ ├── db_helper.py # Database logic │ └── logging_setup.py # Logging configuration │ ├── tests/ # Pytest test cases │ ├── test_backend.py │ └── test_frontend.py │ ├── requirements.txt # Required Python dependencies └── README.md # Project overview and usage ``` </pre> 
 ---
 
 🚀 Getting Started
