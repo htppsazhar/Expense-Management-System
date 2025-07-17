@@ -69,28 +69,30 @@ The Streamlit app will launch in your browser at: <br>
 ---
 ### ⚙️ Technologies Used
 
-🔸 Frontend: Streamlit
-🔸 Backend: FastAPI
-🔸 Database: MySQL
-🔸 Data Handling: Pandas, Pydantic
-🔸 HTTP: Requests
-🔸 Testing: Pytest
-🔸 Server: Uvicorn
+🔸 **Frontend**: Streamlit  
+🔸 **Backend**: FastAPI  
+🔸 **Database**: MySQL  
+🔸 **Data Handling**: Pandas, Pydantic  
+🔸 **HTTP**: Requests  
+🔸 **Testing**: Pytest  
+🔸 **Server**: Uvicorn
 
 ---
-### ✅ Requirements
+## ✅ Requirements
+
 The project depends on the following Python packages:
 
-🔸 streamlit==1.35.0
-🔸 fastapi==0.112.2
-🔸 pydantic==1.10.9
-🔸 uvicorn==0.30.6
-🔸 mysql-connector-python==8.0.33
-🔸 pandas==2.0.2
-🔸 requests==2.31.0
-🔸 pytest==8.3.2
+- 🔹 `streamlit==1.35.0`  
+- 🔹 `fastapi==0.112.2`  
+- 🔹 `pydantic==1.10.9`  
+- 🔹 `uvicorn==0.30.6`  
+- 🔹 `mysql-connector-python==8.0.33`  
+- 🔹 `pandas==2.0.2`  
+- 🔹 `requests==2.31.0`  
+- 🔹 `pytest==8.3.2`  
 
-These are automatically installed via requirements.txt.
+> These are automatically installed via `requirements.txt`.
+
 ---
 
 ### 📸 Screenshots
