@@ -67,7 +67,7 @@ streamlit run frontend/app.py
 The Streamlit app will launch in your browser at: <br>
 🌐 http://localhost:8501
 ---
-⚙️ Technologies Used
+### ⚙️ Technologies Used
 
 🔸 Frontend: Streamlit
 
@@ -84,7 +84,7 @@ The Streamlit app will launch in your browser at: <br>
 🔸 Server: Uvicorn
 
 ---
-✅ Requirements
+### ✅ Requirements
 The project depends on the following Python packages:
 
 🔸 streamlit==1.35.0
@@ -99,7 +99,7 @@ The project depends on the following Python packages:
 These are automatically installed via requirements.txt.
 ---
 
-📸 Screenshots
+### 📸 Screenshots
 
 Add / Update Expenses:
 <img width="881" height="766" alt="image" src="https://github.com/user-attachments/assets/9ee663db-7bc1-4c77-93e3-543c59728717" />
@@ -111,10 +111,10 @@ Expense Analytics:
 
 ---
 
-🤝 Acknowledgements <br>
+### 🤝 Acknowledgements <br>
 This project was guided by online learning and hands-on practice. Thanks to all contributors, open-source libraries, and the tech community that made it possible.
 
-📬 Contact
-Have questions or suggestions?
-📧 [azharuk23@gmail.com]
+### 📬 Contact
+Have questions or suggestions?<br>
+📧 [azharuk23@gmail.com]<br>
 🌐 https://www.linkedin.com/in/azhar-ullah-khan-b8293a252/
