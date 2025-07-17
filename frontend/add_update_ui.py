@@ -47,9 +47,12 @@ def add_update_tab():
                 st.warning("Please enter at least one expense with a non-zero amount.")
             else:
                 try:
+                    expense_date = expenses[0]["expense_date"]
                     for expense in expenses:
-                        response = requests.post(f"{API_URL}/expenses/", json=expense)
-                        response.raise_for_status()
+                        del expense["expense_date"]
+
+                    response = requests.post(f"{API_URL}/expenses/{expense_date}", json=expenses)
+                    response.raise_for_status()
                     st.success("Expenses added/updated successfully!")
                 except requests.exceptions.RequestException as e:
                     st.error(f"Error submitting expenses: {e}")
